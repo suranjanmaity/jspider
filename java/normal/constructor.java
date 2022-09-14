@@ -1,3 +1,4 @@
+package normal;
 import java.util.Scanner;
 class A
 {

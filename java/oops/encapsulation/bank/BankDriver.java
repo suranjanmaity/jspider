@@ -1,4 +1,4 @@
-package encapsulation;
+package encapsulation.bank;
 import java.util.Scanner;
 class BankDriver {
     public static void main(String []args)

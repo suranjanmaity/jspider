@@ -1,4 +1,4 @@
-package encapsulation;
+package encapsulation.qspiders;
 public class Qspider {
     private String branchName;  //w r
     private int nStudents;      //w

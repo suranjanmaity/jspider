@@ -1,4 +1,4 @@
-package encapsulation;
+package encapsulation.bank;
 class Bank {
     
     private String bName;

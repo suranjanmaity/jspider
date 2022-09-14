@@ -1,3 +1,4 @@
+package normal;
 class Program31
 {
 	public static void main(String[]args)

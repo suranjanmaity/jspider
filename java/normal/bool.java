@@ -1,3 +1,4 @@
+package normal;
 class bool{
 public static void main(String [] asd){
 boolean b = true;

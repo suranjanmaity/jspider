@@ -1,4 +1,4 @@
-package encapsulation;
+package encapsulation.qspiders;
 import java.util.Scanner;
 
 public class QspiderDriver {

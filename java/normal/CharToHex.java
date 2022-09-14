@@ -1,3 +1,4 @@
+package normal;
 import java.util.Scanner;
 public class CharToHex {
     public static void main(String args[])

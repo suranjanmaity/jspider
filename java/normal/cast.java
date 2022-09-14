@@ -1,3 +1,4 @@
+package normal;
 class cast{
 public static void main(String[] arga){
 short s = 'A';
