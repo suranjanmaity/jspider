@@ -1,7 +1,15 @@
+package encapsulation;
 public class Qspider {
-    private String branchName;
-    private int nStudents;
-    private int nTeachers = 10;
+    private String branchName;  //w r
+    private int nStudents;      //w
+    private int nTeachers; //  r
+    
+    Qspider(String branchName, int nStudents, int nTeachers)
+    {
+        this.branchName = branchName;
+        this.nStudents = nStudents;
+        this.nTeachers = nTeachers;
+    }
     public String getBranchName()
     {
         return branchName;
@@ -10,6 +18,7 @@ public class Qspider {
     {
         this.branchName = branchName;
     }
+
     public void setNStudents(int nStudents)
     {
         this.nStudents = nStudents;

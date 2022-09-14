@@ -1,3 +1,4 @@
+package encapsulation;
 class Bank {
     
     private String bName;
