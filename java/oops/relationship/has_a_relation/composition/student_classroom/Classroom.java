@@ -1,4 +1,3 @@
-package relationship.has_a_relation.composition.student_classroom;
 class Classroom {
     int classroomNo;
     Student s;

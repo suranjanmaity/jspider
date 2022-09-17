@@ -1,4 +1,3 @@
-package relationship.has_a_relation.composition.engine_car;
 class Car {
     String carModel;
     Engine e;

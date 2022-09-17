@@ -1,4 +1,3 @@
-package relationship.has_a_relation.composition.student_classroom;
 class ClassroomDriver
 {
     public static void main(String[] args)
