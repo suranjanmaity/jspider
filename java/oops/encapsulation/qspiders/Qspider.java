@@ -1,4 +1,3 @@
-package encapsulation.qspiders;
 public class Qspider {
     private String branchName;  //w r
     private int nStudents;      //w
@@ -29,6 +28,6 @@ public class Qspider {
     }
     public void qspiderDetails()
     {
-        System.out.println(getBranchName()+" "+getNTeachers());
+        System.out.println("Branch :" +getBranchName()+" Teacher no : "+getNTeachers());
     }
 }

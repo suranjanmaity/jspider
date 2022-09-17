@@ -1,23 +1,23 @@
-package normal;
-import java.util.Scanner;
 class A
 {
-    // static int a=10;
-    int a=10;
-    // A(int a)
-    // {
-    //     this.a = a;
-    // }
+    
+    char show(){
+        System.out.println("hi this is A class");
+        return 'k';
+    }
 }
+
 class B
 {
+
     public static void main(String [] args)
     {
         A a = new A();
-        // System.out.println(A.a);
-        Scanner s = new Scanner(System.in);
-        a.a= s.nextInt();
 
-        System.out.println(a.a);
+        // Scanner s = new Scanner(System.in);
+        // a.a= s.nextInt();
+
+        // System.out.println(a.show());
+        a.show();
     }
 }

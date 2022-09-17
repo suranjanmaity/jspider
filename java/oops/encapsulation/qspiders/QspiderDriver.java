@@ -1,4 +1,3 @@
-package encapsulation.qspiders;
 import java.util.Scanner;
 
 public class QspiderDriver {
@@ -20,9 +19,9 @@ public class QspiderDriver {
 
         System.out.println("============UPDATE THE DATA============= :");
         System.out.print("Enter Branch name :");
-        branchName = s.nextLine();
+        branchName = s.next();
         q.setBranchName(branchName);
-
+ 
         System.out.print("Enter Student no.  :");
         nStudents = s.nextInt();
         q.setNStudents(nStudents);
