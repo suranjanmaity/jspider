@@ -1,0 +1,2 @@
+In composition we pass the reference variable in constructor as formal arguments.
+Depedent class can not exist without other class.
