@@ -1,3 +1,4 @@
+package assignments;
 class Program
 {
 

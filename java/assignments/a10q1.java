@@ -1,3 +1,5 @@
+package assignments;
+
 class method1{
 public static void main(String[] arg){
 int a=29;

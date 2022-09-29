@@ -1,3 +1,5 @@
+package assignments;
+
 class method5{
 public static void main(String[] ad){
 byte b=10;

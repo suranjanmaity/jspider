@@ -1,3 +1,5 @@
+package assignments;
+
 class concat_int$char$bool$string{
 public static void main(String[] args){
 int a = 10;

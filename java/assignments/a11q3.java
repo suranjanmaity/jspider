@@ -1,3 +1,5 @@
+package assignments;
+
 import java.util.Scanner;
 class method3{
 public static void main(String ad[])

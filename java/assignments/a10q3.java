@@ -1,3 +1,5 @@
+package assignments;
+
 class method3{
 public static void main(String [] ad){
 boolean b= true;

@@ -1,3 +1,4 @@
+package assignments;
 class Method1{
 public static void Int(int a){
 System.out.println(a);

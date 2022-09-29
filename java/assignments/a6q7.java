@@ -1,3 +1,4 @@
+package assignments;
 class And{
 public static void main(String[] as){
 int d =20;

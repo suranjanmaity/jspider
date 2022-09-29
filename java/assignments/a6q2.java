@@ -1,3 +1,4 @@
+package assignments;
 class Or{
 public static void main(String[] as){
 int b = 20;

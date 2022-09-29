@@ -1,3 +1,4 @@
+package assignments;
 class ms_to_cms{
 public static void main(String [] args){
 int m = 1;

@@ -1,3 +1,5 @@
+package assignments;
+
 class method_4{
 public static void main(String[] ad){
 int a=10, b=20;

@@ -1,3 +1,5 @@
+package assignments;
+
 class Bank_Details{
 public static void main(String[]args){
 

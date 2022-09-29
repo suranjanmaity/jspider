@@ -1,3 +1,4 @@
+package assignments;
 class area_circle{
 public static void main(String [] args){
 float rad = 7f;

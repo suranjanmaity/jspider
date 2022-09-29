@@ -1,3 +1,4 @@
+package assignments;
 class area_triangle{
 public static void main(String [] args){
 float h = 5.0f;

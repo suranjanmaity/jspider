@@ -1,3 +1,4 @@
+package assignments;
 class Not{
 public static void main(String[] a){
 int i=12;

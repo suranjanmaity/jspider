@@ -9,6 +9,7 @@ class Program31
 		int big=a>b?a:b;
 		int bigger=big>c?big:c;
 		int biggest=c>(a>b?a:b)?c:(a>b?a:b);
+		System.out.println(bigger);
 		System.out.println(biggest);
 	}
 }			

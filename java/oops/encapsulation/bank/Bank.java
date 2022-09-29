@@ -2,8 +2,13 @@ class Bank {
     
     private String bName;
     private String branch;
-    private int pwd;
-
+    private int pwd=10;
+    Bank(String bName,String branch, int pwd)
+    {
+        this.bName = bName;
+        this.branch=branch;
+        this.pwd=pwd;
+    }
     public String getBname()
     {
         return bName;

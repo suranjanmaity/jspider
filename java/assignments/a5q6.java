@@ -1,3 +1,4 @@
+package assignments;
 class mb_to_kb{
 public static void main(String[] args){
 int mb=1;

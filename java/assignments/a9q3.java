@@ -1,3 +1,4 @@
+package assignments;
 class Method3{
 public static void add_div(float a, float b){
 System.out.println("Addition = " + (a+b));
